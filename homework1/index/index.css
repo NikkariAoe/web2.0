@@ -1,0 +1,24 @@
+h1,h2{
+    color:#A4A400;
+    background: linear-gradient(rgb(255, 255, 255),rgba(155, 194, 32,0.5));
+    border-bottom: 3px solid #9BC220;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    color:#404040;
+}
+
+a{
+    color:#A4A400;
+}
+
+li{
+    list-style-image: url(../image/wel_bullet.png);
+    color:#404040;
+}
+
+body{
+    background-image: url(../image/bg1_1.jpg);
+    background-attachment:fixed;
+}
